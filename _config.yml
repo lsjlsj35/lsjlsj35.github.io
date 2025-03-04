@@ -24,15 +24,15 @@ author:
   avatar           : "person.png"
   name             : "Shujun Liu"
   pronouns         : # example: "she/her"  
-  bio              : "A fourth year undergraduate from Fudan University"
+  bio              : "A first-year graduate from Fudan University"
   location         : "Shanghai China"
   employer         : "Fudan University"
   uri              : "https://lsjlsj35.github.io/"
-  email            : "20307140025@fudan.edu.cn" 
+  email            : "lsj52078@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.cz/citations?user=kHq9r6IAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
