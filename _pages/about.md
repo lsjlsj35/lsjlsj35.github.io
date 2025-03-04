@@ -37,5 +37,5 @@ Honors & Awards
   
 Service
 ======
-* Reviewer: ARR Cycle, ACL 2025, COLING 202
+* Reviewer: ARR Cycle, NLPCC 2024
 * Teaching Assistant: DATA130008-Introduction to Artificial Intelligence-24 Fall
